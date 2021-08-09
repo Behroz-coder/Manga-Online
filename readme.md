@@ -31,7 +31,7 @@ Easy to use web app to read manga and comics.
 
 If you want to run Manga Online you will need to have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed. It's also possible not to use Git and to skip the next step by downloading the ZIP directly from GitHub. You can press the green "code" button on the top, then click "download ZIP", or click [this link](https://github.com/usmanmohammed100/Manga-Online.git).
 
-To set this up, clone the repo. You can do this by running `gh repo clone usmanmohammed100/Manga-Online` in a terminal in the parent folder.
+To set this up, clone the repo. You can do this by running `git clone https://github.com/usmanj100/Manga-Onlinee` in a terminal in the parent folder.
 
 Navigate to the project folder using `cd` or other means and install the relevant packages. This can be done with `npm install`.
 
