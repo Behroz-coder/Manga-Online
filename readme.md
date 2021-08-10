@@ -59,7 +59,7 @@ To have Manga Online notify you with new chapters on Telegram, [make a bot accou
 
 ### **When will Manga Online send me notifications?**
 
-When the developer makes an announcement or a new chapter comes out. Adolla considers something a new chapter when the chapter after one you've read (more than 90% of) is newer than the date you read the previous one on.
+When the developer makes an announcement or a new chapter comes out. Manga Online considers something a new chapter when the chapter after one you've read (more than 90% of) is newer than the date you read the previous one on.
 
 ### **How to uninstall Manga Online?**
 
